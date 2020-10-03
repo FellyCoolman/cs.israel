@@ -1,5 +1,5 @@
 
-    @extends('layouts.master')
+    @extends('frontEnd.layouts.master')
 
 
     @section('barnner')
@@ -35,7 +35,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 text-center">
-                        <img class="img-fluid" src="img/about-img.png" alt="">
+                        <img class="img-fluid" src="images/about-img.png" alt="">
                     </div>
 
                     <div class="offset-lg-1 col-lg-5">
@@ -75,7 +75,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="single_instructor">
                             <div class="author">
-                                <img src="img/instructors/ins1.jpg" alt="">
+                                <img src="images/instructors/ins1.jpg" alt="">
                             </div>
                             <div class="author_decs">
                                 <h4>Ethel Davis</h4>
@@ -94,7 +94,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="single_instructor">
                             <div class="author">
-                                <img src="img/instructors/ins2.jpg" alt="">
+                                <img src="images/instructors/ins2.jpg" alt="">
                             </div>
                             <div class="author_decs">
                                 <h4>Rodney Cooper</h4>
@@ -113,7 +113,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="single_instructor">
                             <div class="author">
-                                <img src="img/instructors/ins3.jpg" alt="">
+                                <img src="images/instructors/ins3.jpg" alt="">
                             </div>
                             <div class="author_decs">
                                 <h4>Dane Walker</h4>
@@ -132,7 +132,7 @@
                     <div class="col-lg-3 col-sm-6">
                         <div class="single_instructor">
                             <div class="author">
-                                <img src="img/instructors/ins4.jpg" alt="">
+                                <img src="images/instructors/ins4.jpg" alt="">
                             </div>
                             <div class="author_decs">
                                 <h4>Lena Keller</h4>
@@ -163,7 +163,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-12 text-center mt-100">
                                     <div class="single_department">
                                         <div class="dpmt_icon">
-                                            <img src="img/dpmt/icon1.png" alt="">
+                                            <img src="images/dpmt/icon1.png" alt="">
                                         </div>
                                         <h4>Languages</h4>
                                     </div>
@@ -172,7 +172,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-12 text-center">
                                     <div class="single_department">
                                         <div class="dpmt_icon">
-                                            <img src="img/dpmt/icon2.png" alt="">
+                                            <img src="images/dpmt/icon2.png" alt="">
                                         </div>
                                         <h4>Business</h4>
                                     </div>
@@ -181,7 +181,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-12 text-center mt-100">
                                     <div class="single_department">
                                         <div class="dpmt_icon">
-                                            <img src="img/dpmt/icon3.png" alt="">
+                                            <img src="images/dpmt/icon3.png" alt="">
                                         </div>
                                         <h4>Literature</h4>
                                     </div>
@@ -190,7 +190,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-12 text-center">
                                     <div class="single_department">
                                         <div class="dpmt_icon">
-                                            <img src="img/dpmt/icon4.png" alt="">
+                                            <img src="images/dpmt/icon4.png" alt="">
                                         </div>
                                         <h4>Software</h4>
                                     </div>
@@ -199,7 +199,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-12 text-center mt--100">
                                     <div class="single_department">
                                         <div class="dpmt_icon">
-                                            <img src="img/dpmt/icon5.png" alt="">
+                                            <img src="images/dpmt/icon5.png" alt="">
                                         </div>
                                         <h4>Design</h4>
                                     </div>
@@ -208,7 +208,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-12 text-center">
                                     <div class="single_department">
                                         <div class="dpmt_icon">
-                                            <img src="img/dpmt/icon6.png" alt="">
+                                            <img src="images/dpmt/icon6.png" alt="">
                                         </div>
                                         <h4>Development</h4>
                                     </div>
@@ -217,7 +217,7 @@
                                 <div class="offset-lg-4 col-lg-4 col-md-4 col-sm-6 col-12 text-center mt--100">
                                     <div class="single_department">
                                         <div class="dpmt_icon">
-                                            <img src="img/dpmt/icon7.png" alt="">
+                                            <img src="images/dpmt/icon7.png" alt="">
                                         </div>
                                         <h4>Development</h4>
                                     </div>
@@ -264,7 +264,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single_fact">
                             <div class="f_icon">
-                                <img src="img/f-icons/icon1.png" alt="">
+                                <img src="images/f-icons/icon1.png" alt="">
                             </div>
                             <h4>Expert Mentors</h4>
                             <p>Lorem ipsum dolor sit amet consec tetur adipisicing elit, sed do eiusmod tempor incididunt
@@ -278,7 +278,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single_fact">
                             <div class="f_icon">
-                                <img src="img/f-icons/icon2.png" alt="">
+                                <img src="images/f-icons/icon2.png" alt="">
                             </div>
                             <h4>25000+ Courses</h4>
                             <p>Lorem ipsum dolor sit amet consec tetur adipis icing elit, sed do eiusmod tempor incididunt
@@ -290,7 +290,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single_fact">
                             <div class="f_icon">
-                                <img src="img/f-icons/icon3.png" alt="">
+                                <img src="images/f-icons/icon3.png" alt="">
                             </div>
                             <h4>Student Membership</h4>
                             <p>Lorem ipsum dolor sit amet consec tetur adipisicing elit, sed do eiusmod tempor incididunt
@@ -304,7 +304,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single_fact">
                             <div class="f_icon">
-                                <img src="img/f-icons/icon4.png" alt="">
+                                <img src="images/f-icons/icon4.png" alt="">
                             </div>
                             <h4>Lifetime Access</h4>
                             <p>Lorem ipsum dolor sit amet consec tetur adipisicing elit, sed do eiusmod tempor incididunt
@@ -316,7 +316,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single_fact">
                             <div class="f_icon">
-                                <img src="img/f-icons/icon5.png" alt="">
+                                <img src="images/f-icons/icon5.png" alt="">
                             </div>
                             <h4>Source File Included</h4>
                             <p>Lorem ipsum dolor sit amet consec tetur adipisicing elit, sed do eiusmod tempor incididunt
@@ -328,7 +328,7 @@
                     <div class="col-lg-4 col-md-6">
                         <div class="single_fact">
                             <div class="f_icon">
-                                <img src="img/f-icons/icon6.png" alt="">
+                                <img src="images/f-icons/icon6.png" alt="">
                             </div>
                             <h4>Live Support</h4>
                             <p>Lorem ipsum dolor sit amet consec tetur adipis icing elit, sed do eiusmod tempor incididunt
@@ -350,7 +350,7 @@
                             <!-- single testimonial -->
                             <div class="single_testimonial">
                                 <div class="testimonial_head">
-                                    <img src="img/quote.png" alt="">
+                                    <img src="images/quote.png" alt="">
                                     <h4>Fanny Spencer</h4>
                                     <div class="review">
                                         <i class="fa fa-star"></i>
@@ -369,7 +369,7 @@
 
                             <div class="single_testimonial">
                                 <div class="testimonial_head">
-                                    <img src="img/quote.png" alt="">
+                                    <img src="images/quote.png" alt="">
                                     <h4>Fanny Spencer</h4>
                                     <div class="review">
                                         <i class="fa fa-star"></i>
@@ -388,7 +388,7 @@
 
                             <div class="single_testimonial">
                                 <div class="testimonial_head">
-                                    <img src="img/quote.png" alt="">
+                                    <img src="images/quote.png" alt="">
                                     <h4>Fanny Spencer</h4>
                                     <div class="review">
                                         <i class="fa fa-star"></i>
@@ -407,7 +407,7 @@
 
                             <div class="single_testimonial">
                                 <div class="testimonial_head">
-                                    <img src="img/quote.png" alt="">
+                                    <img src="images/quote.png" alt="">
                                     <h4>Fanny Spencer</h4>
                                     <div class="review">
                                         <i class="fa fa-star"></i>
@@ -428,25 +428,25 @@
                         <div class="owl-thumbs d-flex justify-content-center" data-slider-id="1">
                             <div class="owl-thumb-item">
                                 <div class="position-relative">
-                                    <img class="img-fluid" src="img/testimonial/t1.jpg" alt="">
+                                    <img class="img-fluid" src="images/testimonial/t1.jpg" alt="">
                                 </div>
                                 <div class="overlay-grad"></div>
                             </div>
                             <div class="owl-thumb-item">
                                 <div class="position-relative">
-                                    <img class="img-fluid" src="img/testimonial/t2.jpg" alt="">
+                                    <img class="img-fluid" src="images/testimonial/t2.jpg" alt="">
                                 </div>
                                 <div class="overlay-grad"></div>
                             </div>
                             <div class="owl-thumb-item">
                                 <div class="position-relative">
-                                    <img class="img-fluid" src="img/testimonial/t3.jpg" alt="">
+                                    <img class="img-fluid" src="images/testimonial/t3.jpg" alt="">
                                 </div>
                                 <div class="overlay-grad"></div>
                             </div>
                             <div class="owl-thumb-item">
                                 <div class="position-relative">
-                                    <img class="img-fluid" src="img/testimonial/t4.jpg" alt="">
+                                    <img class="img-fluid" src="images/testimonial/t4.jpg" alt="">
                                 </div>
                                 <div class="overlay-grad"></div>
                             </div>

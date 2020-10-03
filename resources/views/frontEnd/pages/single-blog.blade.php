@@ -1,5 +1,5 @@
 
-@extends('layouts.master')
+@extends('frontEnd.layouts.master')
 
 
 @section('barnner')
@@ -39,7 +39,7 @@
                         <div class="single-post row">
                             <div class="col-lg-12">
                                 <div class="feature-img">
-                                    <img class="img-fluid" src="img/blog/feature-img1.jpg" alt="">
+                                    <img class="img-fluid" src="images/blog/feature-img1.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-3  col-md-3">
@@ -95,10 +95,10 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-6">
-                                        <img class="img-fluid" src="img/blog/post-img1.jpg" alt="">
+                                        <img class="img-fluid" src="images/blog/post-img1.jpg" alt="">
                                     </div>
                                     <div class="col-6">
-                                        <img class="img-fluid" src="img/blog/post-img2.jpg" alt="">
+                                        <img class="img-fluid" src="images/blog/post-img2.jpg" alt="">
                                     </div>
                                     <div class="col-lg-12 mt-25">
                                         <p>
@@ -121,7 +121,7 @@
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                                     <div class="thumb">
-                                        <a href="#"><img class="img-fluid" src="img/blog/prev.jpg" alt=""></a>
+                                        <a href="#"><img class="img-fluid" src="images/blog/prev.jpg" alt=""></a>
                                     </div>
                                     <div class="arrow">
                                         <a href="#"><span class="lnr text-white lnr-arrow-left"></span></a>
@@ -144,7 +144,7 @@
                                         <a href="#"><span class="lnr text-white lnr-arrow-right"></span></a>
                                     </div>
                                     <div class="thumb">
-                                        <a href="#"><img class="img-fluid" src="img/blog/next.jpg" alt=""></a>
+                                        <a href="#"><img class="img-fluid" src="images/blog/next.jpg" alt=""></a>
                                     </div>
                                 </div>
                             </div>
@@ -155,7 +155,7 @@
                                 <div class="single-comment justify-content-between d-flex">
                                     <div class="user justify-content-between d-flex">
                                         <div class="thumb">
-                                            <img src="img/blog/c1.jpg" alt="">
+                                            <img src="images/blog/c1.jpg" alt="">
                                         </div>
                                         <div class="desc">
                                             <h5><a href="#">Emilly Blunt</a></h5>
@@ -174,7 +174,7 @@
                                 <div class="single-comment justify-content-between d-flex">
                                     <div class="user justify-content-between d-flex">
                                         <div class="thumb">
-                                            <img src="img/blog/c2.jpg" alt="">
+                                            <img src="images/blog/c2.jpg" alt="">
                                         </div>
                                         <div class="desc">
                                             <h5><a href="#">Elsie Cunningham</a></h5>
@@ -193,7 +193,7 @@
                                 <div class="single-comment justify-content-between d-flex">
                                     <div class="user justify-content-between d-flex">
                                         <div class="thumb">
-                                            <img src="img/blog/c3.jpg" alt="">
+                                            <img src="images/blog/c3.jpg" alt="">
                                         </div>
                                         <div class="desc">
                                             <h5><a href="#">Annie Stephens</a></h5>
@@ -212,7 +212,7 @@
                                 <div class="single-comment justify-content-between d-flex">
                                     <div class="user justify-content-between d-flex">
                                         <div class="thumb">
-                                            <img src="img/blog/c4.jpg" alt="">
+                                            <img src="images/blog/c4.jpg" alt="">
                                         </div>
                                         <div class="desc">
                                             <h5><a href="#">Maria Luna</a></h5>
@@ -231,7 +231,7 @@
                                 <div class="single-comment justify-content-between d-flex">
                                     <div class="user justify-content-between d-flex">
                                         <div class="thumb">
-                                            <img src="img/blog/c5.jpg" alt="">
+                                            <img src="images/blog/c5.jpg" alt="">
                                         </div>
                                         <div class="desc">
                                             <h5><a href="#">Ina Hayes</a></h5>
@@ -284,7 +284,7 @@
                                 <div class="br"></div>
                             </aside>
                             <aside class="single_sidebar_widget author_widget">
-                                <img class="author_img rounded-circle" src="img/blog/author.png" alt="">
+                                <img class="author_img rounded-circle" src="images/blog/author.png" alt="">
                                 <h4>Charlie Barber</h4>
                                 <p>Senior blog writer</p>
                                 <div class="social_icon">
@@ -301,7 +301,7 @@
                             <aside class="single_sidebar_widget popular_post_widget">
                                 <h3 class="widget_title">Popular Posts</h3>
                                 <div class="media post_item">
-                                    <img src="img/blog/popular-post/post1.jpg" alt="post">
+                                    <img src="images/blog/popular-post/post1.jpg" alt="post">
                                     <div class="media-body">
                                         <a href="blog-details.html">
                                             <h3>Space The Final Frontier</h3>
@@ -310,7 +310,7 @@
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="img/blog/popular-post/post2.jpg" alt="post">
+                                    <img src="images/blog/popular-post/post2.jpg" alt="post">
                                     <div class="media-body">
                                         <a href="blog-details.html">
                                             <h3>The Amazing Hubble</h3>
@@ -319,7 +319,7 @@
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="img/blog/popular-post/post3.jpg" alt="post">
+                                    <img src="images/blog/popular-post/post3.jpg" alt="post">
                                     <div class="media-body">
                                         <a href="blog-details.html">
                                             <h3>Astronomy Or Astrology</h3>
@@ -328,7 +328,7 @@
                                     </div>
                                 </div>
                                 <div class="media post_item">
-                                    <img src="img/blog/popular-post/post4.jpg" alt="post">
+                                    <img src="images/blog/popular-post/post4.jpg" alt="post">
                                     <div class="media-body">
                                         <a href="blog-details.html">
                                             <h3>Asteroids telescope</h3>
@@ -339,7 +339,7 @@
                                 <div class="br"></div>
                             </aside>
                             <aside class="single_sidebar_widget ads_widget">
-                                <a href="#"><img class="img-fluid" src="img/blog/add.jpg" alt=""></a>
+                                <a href="#"><img class="img-fluid" src="images/blog/add.jpg" alt=""></a>
                                 <div class="br"></div>
                             </aside>
                             <aside class="single_sidebar_widget post_category_widget">

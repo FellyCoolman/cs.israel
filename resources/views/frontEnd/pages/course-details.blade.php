@@ -1,5 +1,5 @@
 
-    @extends('layouts.master')
+    @extends('frontEnd.layouts.master')
 
 
     @section('barnner')
@@ -37,7 +37,7 @@
                 <div class="row">
                     <div class="col-lg-8 course_details_left">
                         <div class="main_image">
-                            <img class="img-fluid" src="img/courses/course-details.jpg" alt="">
+                            <img class="img-fluid" src="images/courses/course-details.jpg" alt="">
                         </div>
                         <div class="content_wrapper">
                             <h4 class="title">Objectives</h4>
@@ -213,7 +213,7 @@
                                     <div class="single-comment single-reviews justify-content-between d-flex">
                                         <div class="user justify-content-between d-flex">
                                             <div class="thumb">
-                                                <img src="img/blog/c1.jpg" alt="">
+                                                <img src="images/blog/c1.jpg" alt="">
                                             </div>
                                             <div class="desc">
                                                 <h5><a href="#">Emilly Blunt</a>
@@ -237,7 +237,7 @@
                                     <div class="single-comment single-reviews justify-content-between d-flex">
                                         <div class="user justify-content-between d-flex">
                                             <div class="thumb">
-                                                <img src="img/blog/c2.jpg" alt="">
+                                                <img src="images/blog/c2.jpg" alt="">
                                             </div>
                                             <div class="desc">
                                                 <h5><a href="#">Elsie Cunningham</a>
@@ -261,7 +261,7 @@
                                     <div class="single-comment single-reviews justify-content-between d-flex">
                                         <div class="user justify-content-between d-flex">
                                             <div class="thumb">
-                                                <img src="img/blog/c3.jpg" alt="">
+                                                <img src="images/blog/c3.jpg" alt="">
                                             </div>
                                             <div class="desc">
                                                 <h5><a href="#">Maria Luna</a>

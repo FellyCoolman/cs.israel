@@ -1,6 +1,6 @@
 
 
-    @extends('layouts.master')
+    @extends('frontEnd.layouts.master')
 
 
     @section('barnner')
@@ -49,7 +49,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single_course">
                             <div class="course_head overlay">
-                                <img class="img-fluid w-100" src="img/courses/trainer1.jpg" alt="">
+                                <img class="img-fluid w-100" src="images/ourses/trainer1.jpg" alt="">
                                 <div class="authr_meta">
                                     <img src="img/author1.png" alt="">
                                     <span>Mart Taylor</span>
@@ -84,7 +84,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single_course">
                             <div class="course_head overlay">
-                                <img class="img-fluid w-100" src="img/courses/trainer1.jpg" alt="">
+                                <img class="img-fluid w-100" src="images/ourses/trainer1.jpg" alt="">
                                 <div class="authr_meta">
                                     <img src="img/author1.png" alt="">
                                     <span>Mart Taylor</span>
@@ -119,7 +119,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single_course">
                             <div class="course_head overlay">
-                                <img class="img-fluid w-100" src="img/courses/trainer1.jpg" alt="">
+                                <img class="img-fluid w-100" src="images/ourses/trainer1.jpg" alt="">
                                 <div class="authr_meta">
                                     <img src="img/author1.png" alt="">
                                     <span>Mart Taylor</span>
@@ -154,7 +154,7 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="single_course">
                             <div class="course_head overlay">
-                                <img class="img-fluid w-100" src="img/courses/trainer1.jpg" alt="">
+                                <img class="img-fluid w-100" src="images/ourses/trainer1.jpg" alt="">
                                 <div class="authr_meta">
                                     <img src="img/author1.png" alt="">
                                     <span>Mart Taylor</span>

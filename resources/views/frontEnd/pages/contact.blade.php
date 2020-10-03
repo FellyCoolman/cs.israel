@@ -1,5 +1,5 @@
 
-    @extends('layouts.master')
+    @extends('frontEnd.layouts.master')
 
 
     @section('barnner')

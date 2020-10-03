@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="icon" href="img/favicon.png" type="image/png">
+    <link rel="icon" href="images/favicon.png" type="image/png">
     <title>About</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.css">
@@ -16,18 +16,18 @@
     <link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
     <link rel="stylesheet" href="vendors/animate-css/animate.css">
     <!-- main css -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/frontStyle.css">
 </head>
 
 <body>
 
-    @include('partials/_header')
+    @include('frontEnd/layouts/partials/_header')
 
     @yield('barnner')
 
     @yield('content')
 
-    @include('partials/_footer')
+    @include('frontEnd/layouts/partials/_footer')
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
