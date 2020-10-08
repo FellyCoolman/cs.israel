@@ -15,7 +15,7 @@
                     <a href="mailto:support@colorlib.com">
                         <span class="lnr lnr-envelope"></span>
                         <span class="text">
-                            <span class="text">support@colorlib.com</span>
+                            <span class="text">fellyunikin7@gmail.com</span>
                         </span>
                     </a>
                 </div>
