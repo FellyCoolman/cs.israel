@@ -9,7 +9,7 @@
                     <a href="tel:+9530123654896">
                         <span class="lnr lnr-phone"></span>
                         <span class="text">
-                            <span class="text">+953012 3654 896</span>
+                            <span class="text">+243 82 79 77 662</span>
                         </span>
                     </a>
                     <a href="mailto:support@colorlib.com">
